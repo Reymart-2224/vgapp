@@ -20,89 +20,84 @@
 		<th>Status</th>
 	</tr>
 </thead>
-      <tbody>              <?php 
+   <tbody>
+<?php
+// Ensure session
+if (session_status() === PHP_SESSION_NONE) { session_start(); }
 
+// Build allowed-church list for pastors (type 2)
+$mychurches = json_decode($user_church ?? '[]', true);
+if (!is_array($mychurches)) $mychurches = [];
 
-	
-$checkusers= "SELECT * FROM users where type=3";	
+// Cast all church ids to integers (safety)
+$allowedIds = array_values(array_filter(array_map('intval', $mychurches), fn($v) => $v > 0));
 
-$result_users = $conn->query($checkusers);
+// Base query: leaders + their church name (JOIN avoids N+1 queries)
+$sql = "
+  SELECT 
+    u.id,
+    u.fname,
+    u.lname,
+    u.username,
+    u.status,
+    u.church   AS church_id,
+    COALESCE(c.name, '') AS church_name
+  FROM users u
+  LEFT JOIN churches c ON c.id = u.church
+  WHERE u.type = 3
+";
 
-if ($result_users->num_rows > 0) {
-  while($row_users = $result_users->fetch_assoc()) {
-				 $leader_fname = ucfirst($row_users["fname"]);
-				  $leader_lname = ucfirst($row_users["lname"]);
-				  $leader_status= $row_users["status"];
-				   $leader_church= $row_users["church"];
-				   $leader_username= $row_users["username"]; 
-				   
-				  $mychurches = json_decode($user_church); 
-				  
-				  if($_SESSION['type']==2){
-				if(in_array($leader_church,$mychurches)){
-
-				   
-			
-				  if($leader_status==1){
-					  $leader_state = "<span class='text-success'>Active</span>";
-				  }
-				  else{
-					    $leader_state = "<span class='text-danger'>Deactivated</span>";
-				  }
-				  echo "<tr onclick='viewleader(".$row_users["id"].")'><td>".$leader_fname." ".$leader_lname."</td><td>".$leader_username."</td><td>";
-			
-				  	 
-						   //echo $mychurches[$i];
-								$checkchurch =  "SELECT * FROM churches where id=".$leader_church[$i];
-								$result_checkchurch = $conn->query($checkchurch);
-								if ($result_checkchurch->num_rows > 0) {
-								while($row_church = $result_checkchurch->fetch_assoc()) {
-									echo "<span>".$row_church['name']."</span><br>";
-								}
-								}
-					   
-				  
-				  echo "</td><td>".$leader_state."</td></tr>";
-                                   
-				}
+// If logged-in user is a pastor, restrict to their churches
+if (($_SESSION['type'] ?? 0) == 2) {
+  if (!empty($allowedIds)) {
+    // Safe IN clause
+    $in = implode(',', array_fill(0, count($allowedIds), '?'));
+    $sql .= " AND u.church IN ($in)";
+    $stmt = $conn->prepare($sql);
+    // dynamic bind
+    $types = str_repeat('i', count($allowedIds));
+    $stmt->bind_param($types, ...$allowedIds);
+    $stmt->execute();
+    $result_users = $stmt->get_result();
+  } else {
+    // Pastor has no allowed churches → show none
+    $result_users = false;
   }
-  else{
-	    
-			
-				  if($leader_status==1){
-					  $leader_state = "<span class='text-success'>Active</span>";
-				  }
-				  else{
-					    $leader_state = "<span class='text-danger'>Deactivated</span>";
-				  }
-				  echo "<tr onclick='viewleader(".$row_users["id"].")'><td>".$leader_fname." ".$leader_lname."</td><td>".$leader_username."</td><td>";
-			
-				  	 
-						   //echo $mychurches[$i];
-								$checkchurch =  "SELECT * FROM churches where id=".$leader_church[$i];
-								$result_checkchurch = $conn->query($checkchurch);
-								if ($result_checkchurch->num_rows > 0) {
-								while($row_church = $result_checkchurch->fetch_assoc()) {
-									echo "<span>".$row_church['name']."</span><br>";
-								}
-								}
-					   
-				  
-				  echo "</td><td>".$leader_state."</td></tr>";
-                             
-	  
-  }
+} else {
+  // Admin/leaders: no restriction
+  $result_users = $conn->query($sql);
 }
-				 
-				
-		
-  }
-  
 
-
+if ($result_users && $result_users->num_rows > 0):
+  while ($row = $result_users->fetch_assoc()):
+    $leader_id       = (int)$row['id'];
+    $leader_fname    = ucfirst((string)$row['fname']);
+    $leader_lname    = ucfirst((string)$row['lname']);
+    $leader_username = (string)$row['username'];
+    $leader_status   = (int)$row['status'];
+    $leader_state    = $leader_status === 1 
+                        ? "<span class='text-success'>Active</span>"
+                        : "<span class='text-danger'>Deactivated</span>";
+    $church_name     = $row['church_name'] !== '' ? $row['church_name'] : '—';
 ?>
-                       
-    </tbody>    
+  <tr onclick="viewleader(<?= $leader_id ?>)">
+    <td><?= htmlspecialchars("$leader_fname $leader_lname", ENT_QUOTES) ?></td>
+    <td><?= htmlspecialchars($leader_username, ENT_QUOTES) ?></td>
+    <td><?= htmlspecialchars($church_name, ENT_QUOTES) ?></td>
+    <td><?= $leader_state ?></td>
+  </tr>
+<?php
+  endwhile;
+else:
+?>
+  <tr><td colspan="4" class="text-center">No leaders found.</td></tr>
+<?php
+endif;
+
+// Close statement if used
+if (isset($stmt) && $stmt instanceof mysqli_stmt) { $stmt->close(); }
+?>
+</tbody>  
        </table>    </div>            
                     </div>
 

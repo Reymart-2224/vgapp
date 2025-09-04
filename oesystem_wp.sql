@@ -2,10 +2,10 @@
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
 --
--- Host: localhost:3306
--- Generation Time: Aug 25, 2025 at 03:00 AM
--- Server version: 10.5.22-MariaDB-cll-lve-log
--- PHP Version: 8.1.16
+-- Host: 127.0.0.1
+-- Generation Time: Sep 04, 2025 at 04:04 PM
+-- Server version: 10.4.32-MariaDB
+-- PHP Version: 8.0.30
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -139,10 +139,10 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`, `fname`, `lname`, `type`, `church`, `status`, `date`, `code`) VALUES
-(1, 'developer', '$2y$10$iBW5xtacvmfDkylSXHdRyej7vLV0kfkB4xCFR.zDOd3KyYvR948Wy', 'Reymart', 'Dungca', 1, NULL, 1, '2022-08-30', '2224'),
-(9, 'peter@gmail.com', '$2y$10$CYy379B6vRNZQc5qDlujFOvjGeaywqASFG1qJ4PYn0tRSpu3YYT6i', 'Peter', 'Aquino', 2, '[\"4\",\"5\"]', 1, '2022-08-31', 'VK7M'),
+(1, 'developer', '$2y$10$tm/DC0UNyTEth8mENNKb..BknR2ubYqzCangyOn0igyHLtvKzz2/.', 'Reymart', 'Dungca', 1, NULL, 1, '2022-08-30', '2224'),
+(9, 'peter@gmail.com', '$2y$10$tm/DC0UNyTEth8mENNKb..BknR2ubYqzCangyOn0igyHLtvKzz2/.', 'Peter', 'Aquino', 2, '[\"4\",\"5\"]', 1, '2022-08-31', 'VK7M'),
 (11, 'eugene@gmail.com', '$2y$10$cFujg/hFPIH4Fg8FhGDTyOffu2a80AQII74QGpVzBXeUe4eVOU6Ey', 'Eugene', 'Lapitan', 3, '4', 1, '2022-09-01', 'hNNC'),
-(12, 'dungcamart24@gmail.com', '$2y$10$CSkrPGsy76hQL.Ih2L9RKuuRFPZO2wHIbr2jxOKPoVjmrj0lHSckS', 'Reymart', 'Dungca', 3, '4', 1, '2022-09-02', 'PPuJ'),
+(12, 'dungcamart24@gmail.com', '$2y$10$tm/DC0UNyTEth8mENNKb..BknR2ubYqzCangyOn0igyHLtvKzz2/.', 'Reymart', 'Dungca', 3, '4', 1, '2022-09-02', 'PPuJ'),
 (13, 'martin@gmail.com', '$2y$10$eiXB5iSA58n/sKr6NW2yduQqjOdRVywzbcBrUvLxm36GZiABjG6V2', 'Martin', 'Yabut', 2, '[\"5\"]', 1, '2022-09-03', '3kOE');
 
 -- --------------------------------------------------------

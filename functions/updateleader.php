@@ -34,7 +34,7 @@ if ($result->num_rows > 0) {
 			
 				}
 				else{
-							$sql = "UPDATE users SET fname='".$fname."',lname='".$lname."',username='".$username."',password='".$password."',church='".$churchIds."',status='".$status."' WHERE id=".$id;
+							$sql = "UPDATE users SET fname='".$fname."',lname='".$lname."',username='".$username."',password='".$hashed_password."',church='".$churchIds."',status='".$status."' WHERE id=".$id;
 				}
 	
 
@@ -55,7 +55,7 @@ else{
 			
 				}
 				else{
-							$sql = "UPDATE users SET fname='".$fname."',lname='".$lname."',username='".$username."',password='".$password."',church='".$churchIds."',status='".$status."' WHERE id=".$id;
+							$sql = "UPDATE users SET fname='".$fname."',lname='".$lname."',username='".$username."',password='".$hashed_password."',church='".$churchIds."',status='".$status."' WHERE id=".$id;
 				}
 
 			if ($conn->query($sql) === TRUE) {
