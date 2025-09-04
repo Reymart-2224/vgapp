@@ -1,0 +1,584 @@
+[03-Sep-2022 23:10:39 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[03-Sep-2022 23:10:39 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 5
+[03-Sep-2022 23:10:39 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 10
+[03-Sep-2022 23:10:39 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 15
+[03-Sep-2022 23:10:39 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 20
+[03-Sep-2022 23:10:39 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[03-Sep-2022 23:10:39 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[03-Sep-2022 23:10:39 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[03-Sep-2022 23:10:39 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[03-Sep-2022 23:10:39 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[03-Sep-2022 23:10:39 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[03-Sep-2022 23:10:39 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[03-Sep-2022 23:10:39 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[03-Sep-2022 23:10:43 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/myvg.php on line 170
+[03-Sep-2022 23:10:55 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/myvg.php on line 170
+[03-Sep-2022 23:12:08 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/myvg.php on line 170
+[03-Sep-2022 23:14:25 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/myvg.php on line 170
+[03-Sep-2022 23:14:51 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/myvg.php on line 170
+[03-Sep-2022 23:15:17 Asia/Manila] PHP Notice:  Undefined index: name in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/myvg.php on line 171
+[03-Sep-2022 23:15:17 Asia/Manila] PHP Notice:  Undefined index: name in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/myvg.php on line 171
+[03-Sep-2022 23:41:08 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[03-Sep-2022 23:41:08 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 3
+[03-Sep-2022 23:41:08 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 9
+[03-Sep-2022 23:41:08 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 14
+[03-Sep-2022 23:41:08 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 19
+[03-Sep-2022 23:41:08 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 24
+[03-Sep-2022 23:41:08 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[03-Sep-2022 23:41:08 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[03-Sep-2022 23:41:08 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[03-Sep-2022 23:41:08 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[03-Sep-2022 23:41:08 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[03-Sep-2022 23:41:08 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[03-Sep-2022 23:41:08 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[03-Sep-2022 23:41:08 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[03-Sep-2022 23:41:19 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[03-Sep-2022 23:41:19 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 3
+[03-Sep-2022 23:41:19 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 9
+[03-Sep-2022 23:41:19 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 14
+[03-Sep-2022 23:41:19 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 19
+[03-Sep-2022 23:41:19 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 24
+[03-Sep-2022 23:41:19 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[03-Sep-2022 23:41:19 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[03-Sep-2022 23:41:19 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[03-Sep-2022 23:41:19 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[03-Sep-2022 23:41:19 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[03-Sep-2022 23:41:19 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[03-Sep-2022 23:41:19 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[03-Sep-2022 23:41:19 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[03-Sep-2022 23:53:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[03-Sep-2022 23:53:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 3
+[03-Sep-2022 23:53:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 9
+[03-Sep-2022 23:53:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 14
+[03-Sep-2022 23:53:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 19
+[03-Sep-2022 23:53:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 24
+[03-Sep-2022 23:53:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[03-Sep-2022 23:53:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[03-Sep-2022 23:53:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[03-Sep-2022 23:53:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[03-Sep-2022 23:53:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[03-Sep-2022 23:53:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[03-Sep-2022 23:53:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[03-Sep-2022 23:53:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[04-Sep-2022 01:51:20 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 01:51:20 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 01:51:20 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 01:51:20 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 02:02:09 Asia/Manila] PHP Notice:  Undefined index: id in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 4
+[04-Sep-2022 02:02:09 Asia/Manila] PHP Notice:  Undefined index: code in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 6
+[04-Sep-2022 02:02:09 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 10
+[04-Sep-2022 02:02:09 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 22
+[04-Sep-2022 02:02:09 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 27
+[04-Sep-2022 02:02:09 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 32
+[04-Sep-2022 02:02:09 Asia/Manila] PHP Notice:  Undefined variable: user_fname in /home/oesystem/public_html/vgtrackingapp/dashboard/topbar.php on line 96
+[04-Sep-2022 02:02:09 Asia/Manila] PHP Notice:  Undefined variable: user_lname in /home/oesystem/public_html/vgtrackingapp/dashboard/topbar.php on line 96
+[04-Sep-2022 02:02:09 Asia/Manila] PHP Notice:  Undefined variable: user_type in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/dashboard.php on line 3
+[04-Sep-2022 02:02:09 Asia/Manila] PHP Notice:  Undefined variable: user_type in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/dashboard.php on line 7
+[04-Sep-2022 02:02:09 Asia/Manila] PHP Notice:  Undefined variable: user_type in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/dashboard.php on line 11
+[04-Sep-2022 02:02:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[04-Sep-2022 02:02:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 3
+[04-Sep-2022 02:02:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 9
+[04-Sep-2022 02:02:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 14
+[04-Sep-2022 02:02:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 19
+[04-Sep-2022 02:02:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 24
+[04-Sep-2022 02:02:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[04-Sep-2022 02:02:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[04-Sep-2022 02:02:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[04-Sep-2022 02:02:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[04-Sep-2022 02:02:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[04-Sep-2022 02:02:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[04-Sep-2022 02:02:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[04-Sep-2022 02:02:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[04-Sep-2022 03:02:49 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 03:02:49 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 03:02:49 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 03:02:49 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 03:02:58 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 03:02:58 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 03:02:58 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 03:02:58 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 03:03:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[04-Sep-2022 03:03:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 6
+[04-Sep-2022 03:03:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 13
+[04-Sep-2022 03:03:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 18
+[04-Sep-2022 03:03:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 24
+[04-Sep-2022 03:03:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 31
+[04-Sep-2022 03:03:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 37
+[04-Sep-2022 03:03:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[04-Sep-2022 03:03:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[04-Sep-2022 03:03:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[04-Sep-2022 03:03:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[04-Sep-2022 03:03:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[04-Sep-2022 03:03:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[04-Sep-2022 03:03:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[04-Sep-2022 03:03:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[04-Sep-2022 03:03:38 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[04-Sep-2022 03:03:38 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[04-Sep-2022 03:03:38 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[04-Sep-2022 03:03:38 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[04-Sep-2022 03:08:10 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[04-Sep-2022 03:08:10 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[04-Sep-2022 03:08:10 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[04-Sep-2022 03:08:10 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[04-Sep-2022 03:10:06 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[04-Sep-2022 03:10:06 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 5
+[04-Sep-2022 03:10:06 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 10
+[04-Sep-2022 03:10:06 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 15
+[04-Sep-2022 03:10:06 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 20
+[04-Sep-2022 03:10:06 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[04-Sep-2022 03:10:06 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[04-Sep-2022 03:10:06 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[04-Sep-2022 03:10:06 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[04-Sep-2022 03:10:06 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[04-Sep-2022 03:10:06 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[04-Sep-2022 03:10:06 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[04-Sep-2022 03:10:06 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[04-Sep-2022 03:10:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[04-Sep-2022 03:10:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 5
+[04-Sep-2022 03:10:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 10
+[04-Sep-2022 03:10:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 15
+[04-Sep-2022 03:10:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 20
+[04-Sep-2022 03:10:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[04-Sep-2022 03:10:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[04-Sep-2022 03:10:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[04-Sep-2022 03:10:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[04-Sep-2022 03:10:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[04-Sep-2022 03:10:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[04-Sep-2022 03:10:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[04-Sep-2022 03:10:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[04-Sep-2022 03:15:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[04-Sep-2022 03:15:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 6
+[04-Sep-2022 03:15:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 13
+[04-Sep-2022 03:15:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 18
+[04-Sep-2022 03:15:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 27
+[04-Sep-2022 03:15:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 33
+[04-Sep-2022 03:15:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[04-Sep-2022 03:15:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[04-Sep-2022 03:15:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[04-Sep-2022 03:15:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[04-Sep-2022 03:15:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[04-Sep-2022 03:15:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[04-Sep-2022 03:15:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[04-Sep-2022 03:15:28 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[04-Sep-2022 03:15:42 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[04-Sep-2022 03:15:42 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[04-Sep-2022 03:15:42 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[04-Sep-2022 03:15:42 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[04-Sep-2022 03:15:45 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[04-Sep-2022 03:15:45 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[04-Sep-2022 03:15:45 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[04-Sep-2022 03:15:45 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[04-Sep-2022 07:41:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[04-Sep-2022 07:41:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 5
+[04-Sep-2022 07:41:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 10
+[04-Sep-2022 07:41:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 15
+[04-Sep-2022 07:41:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 20
+[04-Sep-2022 07:41:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[04-Sep-2022 07:41:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[04-Sep-2022 07:41:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[04-Sep-2022 07:41:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[04-Sep-2022 07:41:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[04-Sep-2022 07:41:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[04-Sep-2022 07:41:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[04-Sep-2022 07:41:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[04-Sep-2022 07:50:09 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 27
+[04-Sep-2022 07:50:24 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 27
+[04-Sep-2022 07:52:48 Asia/Manila] PHP Notice:  Undefined variable: vg_name in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 33
+[04-Sep-2022 07:54:19 Asia/Manila] PHP Notice:  Undefined index: name in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 36
+[04-Sep-2022 07:54:21 Asia/Manila] PHP Notice:  Undefined index: name in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 36
+[04-Sep-2022 07:54:24 Asia/Manila] PHP Notice:  Undefined index: name in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 36
+[04-Sep-2022 08:00:18 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:00:18 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:00:28 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:00:28 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:00:28 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:00:28 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:13 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:13 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:13 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:13 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:15 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:15 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:15 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:15 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:24 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:24 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:24 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:24 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:34 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:34 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:34 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:34 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:36 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:36 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:36 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:36 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:48 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:48 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:48 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:01:48 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:02:11 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:02:11 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:02:11 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:02:11 Asia/Manila] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/attendance.php on line 59
+[04-Sep-2022 08:04:07 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[04-Sep-2022 08:04:07 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 3
+[04-Sep-2022 08:04:07 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 9
+[04-Sep-2022 08:04:07 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 14
+[04-Sep-2022 08:04:07 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 19
+[04-Sep-2022 08:04:07 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 24
+[04-Sep-2022 08:04:07 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[04-Sep-2022 08:04:07 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[04-Sep-2022 08:04:07 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[04-Sep-2022 08:04:07 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[04-Sep-2022 08:04:07 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[04-Sep-2022 08:04:07 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[04-Sep-2022 08:04:07 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[04-Sep-2022 08:04:07 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[04-Sep-2022 08:04:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[04-Sep-2022 08:04:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 3
+[04-Sep-2022 08:04:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 9
+[04-Sep-2022 08:04:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 14
+[04-Sep-2022 08:04:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 19
+[04-Sep-2022 08:04:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 24
+[04-Sep-2022 08:04:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[04-Sep-2022 08:04:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[04-Sep-2022 08:04:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[04-Sep-2022 08:04:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[04-Sep-2022 08:04:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[04-Sep-2022 08:04:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[04-Sep-2022 08:04:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[04-Sep-2022 08:04:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[04-Sep-2022 08:44:02 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 08:44:02 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 08:44:02 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 08:44:02 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 08:44:05 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 08:44:05 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 08:44:05 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 08:44:05 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 08:56:13 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 08:56:13 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 08:56:13 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[04-Sep-2022 08:56:13 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[09-Sep-2022 19:18:59 Asia/Manila] PHP Notice:  Undefined index: id in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 4
+[09-Sep-2022 19:18:59 Asia/Manila] PHP Notice:  Undefined index: code in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 6
+[09-Sep-2022 19:18:59 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 10
+[09-Sep-2022 19:18:59 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 22
+[09-Sep-2022 19:18:59 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 27
+[09-Sep-2022 19:18:59 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 32
+[09-Sep-2022 19:18:59 Asia/Manila] PHP Notice:  Undefined variable: user_fname in /home/oesystem/public_html/vgtrackingapp/dashboard/topbar.php on line 96
+[09-Sep-2022 19:18:59 Asia/Manila] PHP Notice:  Undefined variable: user_lname in /home/oesystem/public_html/vgtrackingapp/dashboard/topbar.php on line 96
+[09-Sep-2022 19:18:59 Asia/Manila] PHP Notice:  Undefined variable: user_church in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 39
+[09-Sep-2022 19:18:59 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 41
+[09-Sep-2022 19:18:59 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[09-Sep-2022 19:18:59 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[09-Sep-2022 19:18:59 Asia/Manila] PHP Notice:  Undefined variable: user_church in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 39
+[09-Sep-2022 19:18:59 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 41
+[09-Sep-2022 19:18:59 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[09-Sep-2022 19:18:59 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[09-Sep-2022 19:18:59 Asia/Manila] PHP Notice:  Undefined variable: user_church in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 152
+[09-Sep-2022 19:18:59 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 160
+[09-Sep-2022 19:18:59 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 160
+[09-Sep-2022 19:19:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[09-Sep-2022 19:19:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 5
+[09-Sep-2022 19:19:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 10
+[09-Sep-2022 19:19:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 15
+[09-Sep-2022 19:19:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 20
+[09-Sep-2022 19:19:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[09-Sep-2022 19:19:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[09-Sep-2022 19:19:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[09-Sep-2022 19:19:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[09-Sep-2022 19:19:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[09-Sep-2022 19:19:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[09-Sep-2022 19:19:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[09-Sep-2022 19:19:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[09-Sep-2022 19:20:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[09-Sep-2022 19:20:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 5
+[09-Sep-2022 19:20:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 10
+[09-Sep-2022 19:20:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 15
+[09-Sep-2022 19:20:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 20
+[09-Sep-2022 19:20:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[09-Sep-2022 19:20:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[09-Sep-2022 19:20:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[09-Sep-2022 19:20:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[09-Sep-2022 19:20:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[09-Sep-2022 19:20:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[09-Sep-2022 19:20:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[09-Sep-2022 19:20:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[17-Sep-2022 14:12:41 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[17-Sep-2022 14:12:41 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 5
+[17-Sep-2022 14:12:41 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 10
+[17-Sep-2022 14:12:41 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 15
+[17-Sep-2022 14:12:41 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 20
+[17-Sep-2022 14:12:42 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[17-Sep-2022 14:12:42 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[17-Sep-2022 14:12:42 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[17-Sep-2022 14:12:42 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[17-Sep-2022 14:12:42 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[17-Sep-2022 14:12:42 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[17-Sep-2022 14:12:42 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[17-Sep-2022 14:12:42 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[17-Sep-2022 14:15:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[17-Sep-2022 14:15:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 5
+[17-Sep-2022 14:15:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 10
+[17-Sep-2022 14:15:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 15
+[17-Sep-2022 14:15:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 20
+[17-Sep-2022 14:15:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[17-Sep-2022 14:15:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[17-Sep-2022 14:15:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[17-Sep-2022 14:15:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[17-Sep-2022 14:15:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[17-Sep-2022 14:15:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[17-Sep-2022 14:15:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[17-Sep-2022 14:15:12 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[17-Sep-2022 14:19:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[17-Sep-2022 14:19:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 5
+[17-Sep-2022 14:19:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 10
+[17-Sep-2022 14:19:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 15
+[17-Sep-2022 14:19:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 20
+[17-Sep-2022 14:19:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[17-Sep-2022 14:19:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[17-Sep-2022 14:19:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[17-Sep-2022 14:19:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[17-Sep-2022 14:19:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[17-Sep-2022 14:19:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[17-Sep-2022 14:19:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[17-Sep-2022 14:19:31 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[17-Sep-2022 14:21:52 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[17-Sep-2022 14:21:52 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 3
+[17-Sep-2022 14:21:52 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 9
+[17-Sep-2022 14:21:52 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 14
+[17-Sep-2022 14:21:52 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 19
+[17-Sep-2022 14:21:52 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/pastor.php on line 24
+[17-Sep-2022 14:21:52 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[17-Sep-2022 14:21:52 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[17-Sep-2022 14:21:52 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[17-Sep-2022 14:21:52 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[17-Sep-2022 14:21:52 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[17-Sep-2022 14:21:52 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[17-Sep-2022 14:21:52 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[17-Sep-2022 14:21:52 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[17-Sep-2022 14:21:58 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[17-Sep-2022 14:21:58 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[17-Sep-2022 14:21:58 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[17-Sep-2022 14:21:58 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 56
+[17-Sep-2022 14:23:13 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[17-Sep-2022 14:23:13 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 6
+[17-Sep-2022 14:23:13 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 13
+[17-Sep-2022 14:23:13 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 18
+[17-Sep-2022 14:23:13 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 27
+[17-Sep-2022 14:23:13 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 33
+[17-Sep-2022 14:23:13 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[17-Sep-2022 14:23:13 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[17-Sep-2022 14:23:13 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[17-Sep-2022 14:23:13 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[17-Sep-2022 14:23:13 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[17-Sep-2022 14:23:13 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[17-Sep-2022 14:23:13 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[17-Sep-2022 14:23:13 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[17-Sep-2022 19:48:35 Asia/Manila] PHP Notice:  Undefined index: id in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 4
+[17-Sep-2022 19:48:35 Asia/Manila] PHP Notice:  Undefined index: code in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 6
+[17-Sep-2022 19:48:35 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 10
+[17-Sep-2022 19:48:35 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 22
+[17-Sep-2022 19:48:35 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 27
+[17-Sep-2022 19:48:35 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 32
+[17-Sep-2022 19:48:35 Asia/Manila] PHP Notice:  Undefined variable: user_fname in /home/oesystem/public_html/vgtrackingapp/dashboard/topbar.php on line 96
+[17-Sep-2022 19:48:35 Asia/Manila] PHP Notice:  Undefined variable: user_lname in /home/oesystem/public_html/vgtrackingapp/dashboard/topbar.php on line 96
+[16-Oct-2023 10:19:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[16-Oct-2023 10:19:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 5
+[16-Oct-2023 10:19:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 10
+[16-Oct-2023 10:19:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 15
+[16-Oct-2023 10:19:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 20
+[16-Oct-2023 10:19:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[16-Oct-2023 10:19:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[16-Oct-2023 10:19:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[16-Oct-2023 10:19:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[16-Oct-2023 10:19:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[16-Oct-2023 10:19:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[16-Oct-2023 10:19:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[16-Oct-2023 10:19:17 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[16-Oct-2023 10:20:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[16-Oct-2023 10:20:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 6
+[16-Oct-2023 10:20:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 13
+[16-Oct-2023 10:20:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 18
+[16-Oct-2023 10:20:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 27
+[16-Oct-2023 10:20:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 33
+[16-Oct-2023 10:20:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[16-Oct-2023 10:20:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[16-Oct-2023 10:20:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[16-Oct-2023 10:20:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[16-Oct-2023 10:20:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[16-Oct-2023 10:20:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[16-Oct-2023 10:20:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[16-Oct-2023 10:20:48 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[16-Oct-2023 10:21:31 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[16-Oct-2023 10:21:31 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[16-Oct-2023 10:21:31 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[16-Oct-2023 10:21:31 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[16-Oct-2023 10:21:37 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[16-Oct-2023 10:21:37 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[16-Oct-2023 10:21:37 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[16-Oct-2023 10:21:37 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[16-Oct-2023 10:21:44 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[16-Oct-2023 10:21:44 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[16-Oct-2023 10:21:44 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[16-Oct-2023 10:21:44 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[16-Oct-2023 10:21:56 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[16-Oct-2023 10:21:56 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[16-Oct-2023 10:21:56 Asia/Manila] PHP Notice:  Undefined variable: i in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[16-Oct-2023 10:21:56 Asia/Manila] PHP Notice:  String offset cast occurred in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/leaders.php on line 82
+[16-Oct-2023 10:23:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[16-Oct-2023 10:23:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 5
+[16-Oct-2023 10:23:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 10
+[16-Oct-2023 10:23:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 15
+[16-Oct-2023 10:23:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 20
+[16-Oct-2023 10:23:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[16-Oct-2023 10:23:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[16-Oct-2023 10:23:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[16-Oct-2023 10:23:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[16-Oct-2023 10:23:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[16-Oct-2023 10:23:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[16-Oct-2023 10:23:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[16-Oct-2023 10:23:14 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[16-Oct-2023 13:34:39 Asia/Manila] PHP Notice:  Undefined index: id in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 4
+[16-Oct-2023 13:34:39 Asia/Manila] PHP Notice:  Undefined index: code in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 6
+[16-Oct-2023 13:34:39 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 10
+[16-Oct-2023 13:34:39 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 22
+[16-Oct-2023 13:34:39 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 27
+[16-Oct-2023 13:34:39 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 32
+[16-Oct-2023 13:34:39 Asia/Manila] PHP Notice:  Undefined variable: user_fname in /home/oesystem/public_html/vgtrackingapp/dashboard/topbar.php on line 96
+[16-Oct-2023 13:34:39 Asia/Manila] PHP Notice:  Undefined variable: user_lname in /home/oesystem/public_html/vgtrackingapp/dashboard/topbar.php on line 96
+[16-Oct-2023 13:34:39 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/myvg.php on line 31
+[16-Oct-2023 13:34:39 Asia/Manila] PHP Notice:  Undefined variable: user_church in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/myvg.php on line 127
+[16-Oct-2023 13:34:39 Asia/Manila] PHP Notice:  Undefined variable: user_church in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/myvg.php on line 147
+[16-Oct-2023 13:34:39 Asia/Manila] PHP Notice:  Undefined variable: user_church in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/myvg.php on line 151
+[16-Oct-2023 13:34:39 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/myvg.php on line 153
+[16-Oct-2023 13:34:39 Asia/Manila] PHP Notice:  Undefined variable: user_type in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/myvg.php on line 173
+[16-Oct-2023 13:34:54 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[16-Oct-2023 13:34:54 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 5
+[16-Oct-2023 13:34:54 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 10
+[16-Oct-2023 13:34:54 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 15
+[16-Oct-2023 13:34:54 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 20
+[16-Oct-2023 13:34:54 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[16-Oct-2023 13:34:54 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[16-Oct-2023 13:34:54 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[16-Oct-2023 13:34:54 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[16-Oct-2023 13:34:54 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[16-Oct-2023 13:34:54 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[16-Oct-2023 13:34:54 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[16-Oct-2023 13:34:54 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[16-Oct-2023 13:36:37 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[16-Oct-2023 13:36:37 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 6
+[16-Oct-2023 13:36:37 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 13
+[16-Oct-2023 13:36:37 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 18
+[16-Oct-2023 13:36:37 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 27
+[16-Oct-2023 13:36:37 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/admin.php on line 33
+[16-Oct-2023 13:36:37 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[16-Oct-2023 13:36:37 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[16-Oct-2023 13:36:37 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[16-Oct-2023 13:36:37 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[16-Oct-2023 13:36:37 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[16-Oct-2023 13:36:37 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[16-Oct-2023 13:36:37 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[16-Oct-2023 13:36:37 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Undefined index: id in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 4
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Undefined index: code in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 6
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 10
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 22
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 27
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 32
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Undefined variable: user_fname in /home/oesystem/public_html/vgtrackingapp/dashboard/topbar.php on line 96
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Undefined variable: user_lname in /home/oesystem/public_html/vgtrackingapp/dashboard/topbar.php on line 96
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Undefined variable: user_type in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/dashboard.php on line 3
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Undefined variable: user_type in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/dashboard.php on line 7
+[16-Oct-2023 23:07:20 Asia/Manila] PHP Notice:  Undefined variable: user_type in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/dashboard.php on line 11
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Undefined index: id in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 4
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Undefined index: code in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 6
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 10
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 22
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 27
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 32
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Undefined variable: user_fname in /home/oesystem/public_html/vgtrackingapp/dashboard/topbar.php on line 96
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Undefined variable: user_lname in /home/oesystem/public_html/vgtrackingapp/dashboard/topbar.php on line 96
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Undefined variable: user_type in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/dashboard.php on line 3
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Undefined variable: user_type in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/dashboard.php on line 7
+[17-Oct-2023 05:43:10 Asia/Manila] PHP Notice:  Undefined variable: user_type in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/dashboard.php on line 11
+[17-Oct-2023 08:17:36 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[17-Oct-2023 08:17:36 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 5
+[17-Oct-2023 08:17:36 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 10
+[17-Oct-2023 08:17:36 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 15
+[17-Oct-2023 08:17:36 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 20
+[17-Oct-2023 08:17:36 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[17-Oct-2023 08:17:36 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[17-Oct-2023 08:17:36 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[17-Oct-2023 08:17:36 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[17-Oct-2023 08:17:36 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[17-Oct-2023 08:17:36 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[17-Oct-2023 08:17:36 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[17-Oct-2023 08:17:36 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[17-Oct-2023 08:17:44 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[17-Oct-2023 08:17:44 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 5
+[17-Oct-2023 08:17:44 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 10
+[17-Oct-2023 08:17:44 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 15
+[17-Oct-2023 08:17:44 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 20
+[17-Oct-2023 08:17:44 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[17-Oct-2023 08:17:44 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[17-Oct-2023 08:17:44 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[17-Oct-2023 08:17:44 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[17-Oct-2023 08:17:44 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[17-Oct-2023 08:17:44 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[17-Oct-2023 08:17:44 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[17-Oct-2023 08:17:44 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[17-Oct-2023 08:17:51 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 15
+[17-Oct-2023 08:17:51 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 5
+[17-Oct-2023 08:17:51 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 10
+[17-Oct-2023 08:17:51 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 15
+[17-Oct-2023 08:17:51 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/menus/leaders.php on line 20
+[17-Oct-2023 08:17:51 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 3
+[17-Oct-2023 08:17:51 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 8
+[17-Oct-2023 08:17:51 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 12
+[17-Oct-2023 08:17:51 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 17
+[17-Oct-2023 08:17:51 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 21
+[17-Oct-2023 08:17:51 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 24
+[17-Oct-2023 08:17:51 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 28
+[17-Oct-2023 08:17:51 Asia/Manila] PHP Notice:  Undefined index: m in /home/oesystem/public_html/vgtrackingapp/dashboard/content.php on line 32
+[17-Oct-2023 13:21:20 Asia/Manila] PHP Notice:  Undefined index: id in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 4
+[17-Oct-2023 13:21:20 Asia/Manila] PHP Notice:  Undefined index: code in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 6
+[17-Oct-2023 13:21:20 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 10
+[17-Oct-2023 13:21:20 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 22
+[17-Oct-2023 13:21:20 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 27
+[17-Oct-2023 13:21:20 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 32
+[17-Oct-2023 13:21:20 Asia/Manila] PHP Notice:  Undefined variable: user_fname in /home/oesystem/public_html/vgtrackingapp/dashboard/topbar.php on line 96
+[17-Oct-2023 13:21:20 Asia/Manila] PHP Notice:  Undefined variable: user_lname in /home/oesystem/public_html/vgtrackingapp/dashboard/topbar.php on line 96
+[17-Oct-2023 13:21:20 Asia/Manila] PHP Notice:  Undefined index: id in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/referrals.php on line 42
+[17-Oct-2023 13:21:20 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/referrals.php on line 44
+[17-Oct-2023 13:22:02 Asia/Manila] PHP Notice:  Undefined index: id in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 4
+[17-Oct-2023 13:22:02 Asia/Manila] PHP Notice:  Undefined index: code in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 6
+[17-Oct-2023 13:22:02 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/oesystem/public_html/vgtrackingapp/functions/data.php on line 10
+[17-Oct-2023 13:22:02 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 22
+[17-Oct-2023 13:22:02 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 27
+[17-Oct-2023 13:22:02 Asia/Manila] PHP Notice:  Undefined index: type in /home/oesystem/public_html/vgtrackingapp/dashboard/sidebar.php on line 32
+[17-Oct-2023 13:22:02 Asia/Manila] PHP Notice:  Undefined variable: user_fname in /home/oesystem/public_html/vgtrackingapp/dashboard/topbar.php on line 96
+[17-Oct-2023 13:22:02 Asia/Manila] PHP Notice:  Undefined variable: user_lname in /home/oesystem/public_html/vgtrackingapp/dashboard/topbar.php on line 96
+[17-Oct-2023 13:22:02 Asia/Manila] PHP Notice:  Undefined variable: user_type in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/dashboard.php on line 3
+[17-Oct-2023 13:22:02 Asia/Manila] PHP Notice:  Undefined variable: user_type in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/dashboard.php on line 7
+[17-Oct-2023 13:22:02 Asia/Manila] PHP Notice:  Undefined variable: user_type in /home/oesystem/public_html/vgtrackingapp/dashboard/layout/dashboard.php on line 11
